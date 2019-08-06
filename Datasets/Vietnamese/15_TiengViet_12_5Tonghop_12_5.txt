@@ -1,0 +1,1066 @@
+Character: T----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=51.06,Y=43.13208) height=5.6658006 width=4.737011]
+Character: ạ----font: FMGFPF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=55.80042,Y=43.13208) height=5.6658006 width=4.259899]
+Character: p----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=60.060318,Y=43.13208) height=5.6658006 width=4.259903]
+Space character: ----font: FMGGAF+TimesNewRomanPS-ItalicMT
+Character: c----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=66.48339,Y=43.13208) height=5.6658006 width=3.7827911]
+Character: h----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=70.26959,Y=43.13208) height=5.6658006 width=4.259903]
+Character: í----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=74.5329,Y=43.13208) height=5.6658006 width=2.3685074]
+Space character: ----font: FMGGAF+TimesNewRomanPS-ItalicMT
+Character: K----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=78.974266,Y=43.13208) height=5.6658006 width=5.6827087]
+Character: h----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=84.66038,Y=43.13208) height=5.6658006 width=4.259903]
+Character: o----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=88.860634,Y=43.13208) height=5.6658006 width=4.259903]
+Character: a----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=93.12394,Y=43.13208) height=5.6658006 width=4.259903]
+Space character: ----font: FMGGAF+TimesNewRomanPS-ItalicMT
+Character: h----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=99.54701,Y=43.13208) height=5.6658006 width=4.259903]
+Character: ọ----font: FMGFPF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=103.74048,Y=43.13208) height=5.6658006 width=4.259903]
+Character: c----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=108.00038,Y=43.13208) height=5.6658006 width=3.7827911]
+Space character: ----font: FMGGAF+TimesNewRomanPS-ItalicMT
+Character: T----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=113.8816,Y=43.13208) height=5.6658006 width=4.737007]
+Character: r----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=118.620316,Y=43.13208) height=5.6658006 width=3.3142014]
+Character: ư----font: FMGFPF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=121.92003,Y=43.13208) height=5.6658006 width=4.6432953]
+Character: ờ----font: FMGFPF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=126.53691,Y=43.13208) height=5.6658006 width=4.549576]
+Character: n----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=131.10011,Y=43.13208) height=5.6658006 width=4.259903]
+Character: g----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=135.36002,Y=43.13208) height=5.6658006 width=4.259903]
+Space character: ----font: FMGGAF+TimesNewRomanPS-ItalicMT
+Character: Đ----font: FMGFPF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=141.72005,Y=43.13208) height=5.6658006 width=6.151291]
+Character: ạ----font: FMGFPF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=147.83897,Y=43.13208) height=5.6658006 width=4.259903]
+Character: i----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=152.09972,Y=43.13208) height=5.6658006 width=2.3684998]
+Space character: ----font: FMGGAF+TimesNewRomanPS-ItalicMT
+Character: h----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=156.60074,Y=43.13208) height=5.6658006 width=4.259903]
+Character: ọ----font: FMGFPF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=160.85977,Y=43.13208) height=5.6658006 width=4.259903]
+Character: c----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=165.11967,Y=43.13208) height=5.6658006 width=3.7827911]
+Space character: ----font: FMGGAF+TimesNewRomanPS-ItalicMT
+Character: C----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=170.94125,Y=43.13208) height=5.6658006 width=5.6827087]
+Character: ầ----font: FMGFPF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=176.6393,Y=43.13208) height=5.6658006 width=4.259903]
+Character: n----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=180.8992,Y=43.13208) height=5.6658006 width=4.259903]
+Space character: ----font: FMGGAF+TimesNewRomanPS-ItalicMT
+Character: T----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=187.26009,Y=43.13208) height=5.6658006 width=4.737015]
+Character: h----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=191.99794,Y=43.13208) height=5.6658006 width=4.259903]
+Character: ơ----font: FMGFPF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=196.25955,Y=43.13208) height=5.6658006 width=4.549576]
+Space character: ----font: FMGGAF+TimesNewRomanPS-ItalicMT
+Space character: ----font: FMGGAF+TimesNewRomanPS-ItalicMT
+Character: S----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=319.32037,Y=43.13208) height=5.6658006 width=4.2598877]
+Character: ố----font: FMGFPF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=323.5803,Y=43.13208) height=5.6658006 width=4.2598877]
+Space character: ----font: FMGGAF+TimesNewRomanPS-ItalicMT
+Character: c----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=329.99994,Y=43.13208) height=5.6658006 width=3.7828064]
+Character: h----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=333.787,Y=43.13208) height=5.6658006 width=4.2598877]
+Character: u----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=338.05115,Y=43.13208) height=5.6658006 width=4.2598877]
+Character: y----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=342.2514,Y=43.13208) height=5.6658006 width=3.7828064]
+Character: ê----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=346.03845,Y=43.13208) height=5.6658006 width=3.7828064]
+Character: n----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=349.8255,Y=43.13208) height=5.6658006 width=4.2598877]
+Space character: ----font: FMGGAF+TimesNewRomanPS-ItalicMT
+Character: đ----font: FMGFPF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=356.16,Y=43.13208) height=5.6658006 width=4.2598877]
+Character: ề----font: FMGFPF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=360.4199,Y=43.13208) height=5.6658006 width=3.7828064]
+Character: :----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=364.20013,Y=43.13208) height=5.6658006 width=2.8370972]
+Space character: ----font: FMGGAF+TimesNewRomanPS-ItalicMT
+Character: C----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=369.13736,Y=43.13208) height=5.6658006 width=5.6827087]
+Character: ô----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=374.82007,Y=43.13208) height=5.6658006 width=4.2598877]
+Character: n----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=379.02032,Y=43.13208) height=5.6658006 width=4.2598877]
+Character: g----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=383.2802,Y=43.13208) height=5.6658006 width=4.2598877]
+Space character: ----font: FMGGAF+TimesNewRomanPS-ItalicMT
+Character: n----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=389.69986,Y=43.13208) height=5.6658006 width=4.2598877]
+Character: g----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=393.95975,Y=43.13208) height=5.6658006 width=4.2598877]
+Character: h----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=398.21964,Y=43.13208) height=5.6658006 width=4.2598877]
+Character: ệ----font: FMGFPF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=402.41995,Y=43.13208) height=5.6658006 width=3.7828064]
+Space character: ----font: FMGGAF+TimesNewRomanPS-ItalicMT
+Character: T----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=408.35995,Y=43.13208) height=5.6658006 width=4.7369995]
+Character: h----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=413.039,Y=43.13208) height=5.6658006 width=4.2598877]
+Character: ô----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=417.2972,Y=43.13208) height=5.6658006 width=4.2598877]
+Character: n----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=421.55542,Y=43.13208) height=5.6658006 width=4.2598877]
+Character: g----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=425.81363,Y=43.13208) height=5.6658006 width=4.2598877]
+Space character: ----font: FMGGAF+TimesNewRomanPS-ItalicMT
+Character: t----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=432.17368,Y=43.13208) height=5.6658006 width=2.3684998]
+Character: i----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=434.54047,Y=43.13208) height=5.6658006 width=2.3684998]
+Character: n----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=436.90726,Y=43.13208) height=5.6658006 width=4.2598877]
+Space character: ----font: FMGGAF+TimesNewRomanPS-ItalicMT
+Character: (----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=443.32523,Y=43.13208) height=5.6658006 width=2.8370972]
+Character: 2----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=446.08478,Y=43.13208) height=5.6658006 width=4.2598877]
+Character: 0----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=450.343,Y=43.13208) height=5.6658006 width=4.2598877]
+Character: 1----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=454.6012,Y=43.13208) height=5.6658006 width=4.2598877]
+Character: 3----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=458.8594,Y=43.13208) height=5.6658006 width=4.2598877]
+Character: )----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=463.1176,Y=43.13208) height=5.6658006 width=2.8370972]
+Character: :----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=465.953,Y=43.13208) height=5.6658006 width=2.8370972]
+Space character: ----font: FMGGAF+TimesNewRomanPS-ItalicMT
+Character: 1----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=470.94815,Y=43.13208) height=5.6658006 width=4.2598877]
+Character: -----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=475.20636,Y=43.13208) height=5.6658006 width=2.8370972]
+Character: 1----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=478.04175,Y=43.13208) height=5.6658006 width=4.2598877]
+Character: 0----font: FMGGAF+TimesNewRomanPS-ItalicMT Positions of character:  [(X=482.29996,Y=43.13208) height=5.6658006 width=4.2598877]
+Space character: ----font: FMGGAF+TimesNewRomanPS-ItalicMT
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: 3----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=267.06,Y=698.5121) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: H----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=180.41977,Y=293.99164) height=6.67833 width=7.79541]
+Character: ì----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=188.21718,Y=293.99164) height=6.67833 width=2.7855072]
+Character: n----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=191.00468,Y=293.99164) height=6.67833 width=5.5710144]
+Character: h----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=196.5777,Y=293.99164) height=6.67833 width=5.5710144]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: 1----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=204.61057,Y=293.99164) height=6.67833 width=5.009903]
+Character: :----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=209.62247,Y=293.99164) height=6.67833 width=3.3365936]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: K----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=215.48103,Y=293.99164) height=6.67833 width=7.79541]
+Character: i----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=223.27844,Y=293.99164) height=6.67833 width=2.7855072]
+Character: ế----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=226.01988,Y=293.99164) height=6.67833 width=4.4487915]
+Character: n----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=230.45966,Y=293.99164) height=6.67833 width=5.5710144]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: t----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=238.48851,Y=293.99164) height=6.67833 width=3.3365936]
+Character: r----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=241.8231,Y=293.99164) height=6.67833 width=4.4487915]
+Character: ú----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=246.2699,Y=293.99164) height=6.67833 width=5.5710144]
+Character: c----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=251.8389,Y=293.99164) height=6.67833 width=4.4487915]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: h----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=258.80566,Y=293.99164) height=6.67833 width=5.5710144]
+Character: o----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=264.32455,Y=293.99164) height=6.67833 width=5.0098877]
+Character: ạ----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=269.33948,Y=293.99164) height=6.67833 width=5.0098877]
+Character: t----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=274.3193,Y=293.99164) height=6.67833 width=3.3365784]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: đ----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=280.1398,Y=293.99164) height=6.67833 width=5.5710144]
+Character: ộ----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=285.71783,Y=293.99164) height=6.67833 width=5.0098877]
+Character: n----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=290.7598,Y=293.99164) height=6.67833 width=5.5710144]
+Character: g----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=296.28973,Y=293.99164) height=6.67833 width=5.0098877]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: c----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=303.77853,Y=293.99164) height=6.67833 width=4.4487915]
+Character: ủ----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=308.2203,Y=293.99164) height=6.67833 width=5.5710144]
+Character: a----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=313.80032,Y=293.99164) height=6.67833 width=5.0098877]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: h----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=321.30014,Y=293.99164) height=6.67833 width=5.5710144]
+Character: ệ----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=326.88016,Y=293.99164) height=6.67833 width=4.4487915]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: t----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=333.77982,Y=293.99164) height=6.67833 width=3.3365784]
+Character: h----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=337.13947,Y=293.99164) height=6.67833 width=5.5710144]
+Character: ố----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=342.66037,Y=293.99164) height=6.67833 width=5.0098877]
+Character: n----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=347.70032,Y=293.99164) height=6.67833 width=5.5710144]
+Character: g----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=353.23026,Y=293.99164) height=6.67833 width=5.0098877]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: H----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=64.98,Y=556.0121) height=6.67833 width=7.7954025]
+Character: ì----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=72.77641,Y=556.0121) height=6.67833 width=2.7855072]
+Character: n----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=75.56292,Y=556.0121) height=6.67833 width=5.571007]
+Character: h----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=81.13493,Y=556.0121) height=6.67833 width=5.571007]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: 2----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=89.16681,Y=556.0121) height=6.67833 width=5.009903]
+Character: :----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=94.17771,Y=556.0121) height=6.67833 width=3.3365936]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: M----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=100.035286,Y=556.0121) height=6.67833 width=9.458694]
+Character: ô----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=109.49498,Y=556.0121) height=6.67833 width=5.009903]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: h----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=116.965744,Y=556.0121) height=6.67833 width=5.571007]
+Character: ì----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=122.53776,Y=556.0121) height=6.67833 width=2.7855072]
+Character: n----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=125.324265,Y=556.0121) height=6.67833 width=5.5710144]
+Character: h----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=130.89627,Y=556.0121) height=6.67833 width=5.5710144]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: k----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=138.98825,Y=556.0121) height=6.67833 width=5.5710144]
+Character: ế----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=144.54022,Y=556.0121) height=6.67833 width=4.4487915]
+Character: t----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=148.91988,Y=556.0121) height=6.67833 width=3.3365936]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: n----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=154.79948,Y=556.0121) height=6.67833 width=5.5710144]
+Character: ố----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=160.3204,Y=556.0121) height=6.67833 width=5.009903]
+Character: i----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=165.36037,Y=556.0121) height=6.67833 width=2.7855072]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: g----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=170.58168,Y=556.0121) height=6.67833 width=5.009903]
+Character: i----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=175.62164,Y=556.0121) height=6.67833 width=2.7855072]
+Character: ữ----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=178.3801,Y=556.0121) height=6.67833 width=6.0118866]
+Character: a----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=184.31984,Y=556.0121) height=6.67833 width=5.009903]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: c----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=191.87978,Y=556.0121) height=6.67833 width=4.4487915]
+Character: á----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=196.27446,Y=556.0121) height=6.67833 width=5.009903]
+Character: c----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=201.31442,Y=556.0121) height=6.67833 width=4.4487915]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: c----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=208.27617,Y=556.0121) height=6.67833 width=4.4487915]
+Character: á----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=212.67085,Y=556.0121) height=6.67833 width=5.009903]
+Character: c----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=217.71082,Y=556.0121) height=6.67833 width=4.4487915]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: p----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=224.67256,Y=556.0121) height=6.67833 width=5.5710144]
+Character: h----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=230.18947,Y=556.0121) height=6.67833 width=5.5710144]
+Character: â----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=235.7675,Y=556.0121) height=6.67833 width=5.009903]
+Character: n----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=240.7233,Y=556.0121) height=6.67833 width=5.5710144]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: h----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=248.8213,Y=556.0121) height=6.67833 width=5.5710144]
+Character: ệ----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=254.40033,Y=556.0121) height=6.67833 width=4.4487915]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: v----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=261.29996,Y=556.0121) height=6.67833 width=5.0098877]
+Character: ớ----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=266.3399,Y=556.0121) height=6.67833 width=5.5509644]
+Character: i----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=271.8598,Y=556.0121) height=6.67833 width=2.785492]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: c----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=277.14124,Y=556.0121) height=6.67833 width=4.4487915]
+Character: ơ----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=281.58002,Y=556.0121) height=6.67833 width=5.5509644]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: s----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=289.6199,Y=556.0121) height=6.67833 width=3.897705]
+Character: ở----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=293.5196,Y=556.0121) height=6.67833 width=5.5509644]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: d----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=301.49936,Y=556.0121) height=6.67833 width=5.5710144]
+Character: ữ----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=307.07938,Y=556.0121) height=6.67833 width=6.0118713]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: l----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=315.5992,Y=556.0121) height=6.67833 width=2.785492]
+Character: i----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=318.3737,Y=556.0121) height=6.67833 width=2.785492]
+Character: ệ----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=321.1191,Y=556.0121) height=6.67833 width=4.4487915]
+Character: u----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=325.5589,Y=556.0121) height=6.67833 width=5.5710144]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: c----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=333.65692,Y=556.0121) height=6.67833 width=4.4487915]
+Character: ủ----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=338.0987,Y=556.0121) height=6.67833 width=5.5710144]
+Character: a----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=343.6186,Y=556.0121) height=6.67833 width=5.0098877]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: h----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=351.17853,Y=556.0121) height=6.67833 width=5.5710144]
+Character: ệ----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=356.75854,Y=556.0121) height=6.67833 width=4.4487915]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: t----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=363.6582,Y=556.0121) height=6.67833 width=3.3365784]
+Character: h----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=367.01483,Y=556.0121) height=6.67833 width=5.5710144]
+Character: ố----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=372.53876,Y=556.0121) height=6.67833 width=5.0098877]
+Character: n----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=377.5787,Y=556.0121) height=6.67833 width=5.5710144]
+Character: g----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=383.11465,Y=556.0121) height=6.67833 width=5.0098877]
+Character: A----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=388.1546,Y=556.0121) height=6.67833 width=7.2342834]
+Character: G----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=395.35382,Y=556.0121) height=6.67833 width=7.79541]
+Character: R----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=403.11417,Y=556.0121) height=6.67833 width=7.2342834]
+Character: I----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=410.3134,Y=556.0121) height=6.67833 width=3.897705]
+Character: W----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=414.17603,Y=556.0121) height=6.67833 width=10.019806]
+Character: E----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=424.16077,Y=556.0121) height=6.67833 width=6.683197]
+Character: B----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=430.8089,Y=556.0121) height=6.67833 width=6.683197]
+Character: G----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=437.45703,Y=556.0121) height=6.67833 width=7.79541]
+Character: I----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=445.21738,Y=556.0121) height=6.67833 width=3.897705]
+Character: S----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=449.08002,Y=556.0121) height=6.67833 width=5.5710144]
+Character: _----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=454.61597,Y=556.0121) height=6.67833 width=5.0098877]
+Character: C----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=459.6559,Y=556.0121) height=6.67833 width=7.2342834]
+Character: T----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=466.91425,Y=556.0121) height=6.67833 width=6.683197]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: 3----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=64.97696,Y=573.4719) height=6.67833 width=5.009903]
+Space character: ----font: FMGGDM+Arial-BoldMT
+Character: K----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=77.63698,Y=573.4719) height=6.67833 width=7.7954025]
+Character: Ế----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=85.43739,Y=573.4719) height=6.67833 width=6.6832047]
+Character: T----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=92.09756,Y=573.4719) height=6.67833 width=6.6832047]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: Q----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=101.291725,Y=573.4719) height=6.67833 width=7.7954025]
+Character: U----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=109.07811,Y=573.4719) height=6.67833 width=7.2342987]
+Character: Ả----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=116.277336,Y=573.4719) height=6.67833 width=7.2342987]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: V----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=125.99754,Y=573.4719) height=6.67833 width=7.2342987]
+Character: À----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=133.19878,Y=573.4719) height=6.67833 width=7.2342987]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: T----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=142.9771,Y=573.4719) height=6.67833 width=6.6832123]
+Character: H----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=149.62724,Y=573.4719) height=6.67833 width=7.79541]
+Character: Ả----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=157.37755,Y=573.4719) height=6.67833 width=7.2342987]
+Character: O----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=164.6379,Y=573.4719) height=6.67833 width=7.79541]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: L----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=174.9142,Y=573.4719) height=6.67833 width=6.6832123]
+Character: U----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=181.55833,Y=573.4719) height=6.67833 width=7.2342987]
+Character: Ậ----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=188.75755,Y=573.4719) height=6.67833 width=7.2342987]
+Character: N----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=196.0179,Y=573.4719) height=6.67833 width=7.2342987]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Space character: ----font: FMGGDM+Arial-BoldMT
+Character: M----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=86.039955,Y=587.99207) height=6.67833 width=9.458694]
+Character: ô----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=95.49664,Y=587.99207) height=6.67833 width=5.009903]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: h----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=103.02452,Y=587.99207) height=6.67833 width=5.571007]
+Character: ì----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=108.59353,Y=587.99207) height=6.67833 width=2.7855072]
+Character: n----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=111.37703,Y=587.99207) height=6.67833 width=5.571007]
+Character: h----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=116.94604,Y=587.99207) height=6.67833 width=5.571007]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: l----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=124.984924,Y=587.99207) height=6.67833 width=2.7855072]
+Character: i----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=127.768425,Y=587.99207) height=6.67833 width=2.7854996]
+Character: ê----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=130.55193,Y=587.99207) height=6.67833 width=4.4487915]
+Character: n----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=134.99872,Y=587.99207) height=6.67833 width=5.5710144]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: k----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=143.02757,Y=587.99207) height=6.67833 width=5.5710144]
+Character: ế----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=148.5605,Y=587.99207) height=6.67833 width=4.4487915]
+Character: t----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=153.00027,Y=587.99207) height=6.67833 width=3.3365936]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: g----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=158.82378,Y=587.99207) height=6.67833 width=5.009903]
+Character: i----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=163.86073,Y=587.99207) height=6.67833 width=2.7855072]
+Character: ữ----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=166.6202,Y=587.99207) height=6.67833 width=6.0118866]
+Character: a----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=172.62006,Y=587.99207) height=6.67833 width=5.009903]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: c----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=180.12389,Y=587.99207) height=6.67833 width=4.4487915]
+Character: á----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=184.54663,Y=587.99207) height=6.67833 width=5.009903]
+Character: c----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=189.5866,Y=587.99207) height=6.67833 width=4.4487915]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: p----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=196.52931,Y=587.99207) height=6.67833 width=5.5710144]
+Character: h----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=202.07426,Y=587.99207) height=6.67833 width=5.5710144]
+Character: â----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=207.61922,Y=587.99207) height=6.67833 width=5.009903]
+Character: n----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=212.65916,Y=587.99207) height=6.67833 width=5.5710144]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: h----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=220.69804,Y=587.99207) height=6.67833 width=5.5710144]
+Character: ệ----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=226.26006,Y=587.99207) height=6.67833 width=4.4487915]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: q----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=233.15968,Y=587.99207) height=6.67833 width=5.5710144]
+Character: u----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=238.7377,Y=587.99207) height=6.67833 width=5.5710144]
+Character: ả----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=244.25963,Y=587.99207) height=6.67833 width=5.009903]
+Character: n----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=249.29959,Y=587.99207) height=6.67833 width=5.5710144]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: l----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=51.058838,Y=599.5121) height=6.67833 width=2.7855034]
+Character: ý----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=53.820297,Y=599.5121) height=6.67833 width=5.009899]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: t----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=61.380238,Y=599.5121) height=6.67833 width=3.3365898]
+Character: r----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=64.74288,Y=599.5121) height=6.67833 width=4.4487915]
+Character: o----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=69.12454,Y=599.5121) height=6.67833 width=5.009903]
+Character: n----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=74.16049,Y=599.5121) height=6.67833 width=5.571007]
+Character: g----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=79.6794,Y=599.5121) height=6.67833 width=5.009903]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: h----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=87.17521,Y=599.5121) height=6.67833 width=5.571007]
+Character: ệ----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=92.75925,Y=599.5121) height=6.67833 width=4.4487915]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: t----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=99.719,Y=599.5121) height=6.67833 width=3.3365936]
+Character: h----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=103.018524,Y=599.5121) height=6.67833 width=5.571007]
+Character: ố----font: FMGGBI+TimesNewRomanPS-BoldMT Positions of character:  [(X=108.53943,Y=599.5121) height=6.67833 width=5.009903]
+Character: n----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=113.57939,Y=599.5121) height=6.67833 width=5.571007]
+Character: g----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=119.0983,Y=599.5121) height=6.67833 width=5.009903]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: A----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=126.59812,Y=599.5121) height=6.67833 width=7.234291]
+Character: G----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=133.83842,Y=599.5121) height=6.67833 width=7.79541]
+Character: R----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=141.57973,Y=599.5121) height=6.67833 width=7.2342987]
+Character: I----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=148.82004,Y=599.5121) height=6.67833 width=3.897705]
+Character: W----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=152.72375,Y=599.5121) height=6.67833 width=10.019806]
+Character: E----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=162.74957,Y=599.5121) height=6.67833 width=6.6832123]
+Character: B----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=169.34962,Y=599.5121) height=6.67833 width=6.6832123]
+Character: G----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=176.03885,Y=599.5121) height=6.67833 width=7.79541]
+Character: I----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=183.84027,Y=599.5121) height=6.67833 width=3.897705]
+Character: S----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=187.74399,Y=599.5121) height=6.67833 width=5.5710144]
+Character: _----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=193.32101,Y=599.5121) height=6.67833 width=5.009903]
+Character: C----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=198.30086,Y=599.5121) height=6.67833 width=7.2342987]
+Character: T----font: FMGGBJ+TimesNewRomanPS-BoldMT Positions of character:  [(X=205.5592,Y=599.5121) height=6.67833 width=6.6832123]
+Space character: ----font: FMGGBJ+TimesNewRomanPS-BoldMT
+Character: M----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=65.278946,Y=616.8517) height=6.5831404 width=8.9076]
+Character: ô----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=74.157486,Y=616.8517) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=85.43778,Y=616.8517) height=6.5831404 width=5.009903]
+Character: ì----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=90.477745,Y=616.8517) height=6.5831404 width=2.7855072]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=93.179085,Y=616.8517) height=6.5831404 width=5.009903]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=98.21905,Y=616.8517) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: ứ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=109.43921,Y=616.8517) height=6.5831404 width=5.4307327]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=114.83888,Y=616.8517) height=6.5831404 width=5.009903]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=119.878845,Y=616.8517) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: d----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=131.09901,Y=616.8517) height=6.5831404 width=5.009903]
+Character: ụ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=136.13898,Y=616.8517) height=6.5831404 width=5.009903]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=141.11882,Y=616.8517) height=6.5831404 width=5.009903]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=146.09866,Y=616.8517) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=157.37895,Y=616.8517) height=6.5831404 width=4.4487915]
+Character: ủ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=161.7586,Y=616.8517) height=6.5831404 width=5.009903]
+Character: a----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=166.79857,Y=616.8517) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: A----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=177.46765,Y=616.8517) height=6.5831404 width=7.2342987]
+Character: G----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=184.68192,Y=616.8517) height=6.5831404 width=7.2342987]
+Character: R----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=191.89618,Y=616.8517) height=6.5831404 width=6.6832123]
+Character: I----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=198.55934,Y=616.8517) height=6.5831404 width=3.3365936]
+Character: W----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=201.8759,Y=616.8517) height=6.5831404 width=9.458694]
+Character: E----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=211.31454,Y=616.8517) height=6.5831404 width=6.122101]
+Character: B----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=217.4166,Y=616.8517) height=6.5831404 width=6.6832123]
+Character: G----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=224.07976,Y=616.8517) height=6.5831404 width=7.2342987]
+Character: I----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=231.294,Y=616.8517) height=6.5831404 width=3.3365936]
+Character: S----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=234.61057,Y=616.8517) height=6.5831404 width=5.5710144]
+Character: _----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=240.16153,Y=616.8517) height=6.5831404 width=5.009903]
+Character: C----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=245.1514,Y=616.8517) height=6.5831404 width=6.6832123]
+Character: T----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=251.81456,Y=616.8517) height=6.5831404 width=6.1220856]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: đ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=51.057854,Y=628.3717) height=6.5831404 width=5.009899]
+Character: ư----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=56.097813,Y=628.3717) height=6.5831404 width=5.4307327]
+Character: ợ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=61.558605,Y=628.3717) height=6.5831404 width=5.3004723]
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=66.838036,Y=628.3717) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: x----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=73.73767,Y=628.3717) height=6.5831404 width=5.009903]
+Character: â----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=78.738556,Y=628.3717) height=6.5831404 width=4.4487915]
+Character: y----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=83.17833,Y=628.3717) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: d----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=90.699196,Y=628.3717) height=6.5831404 width=5.009903]
+Character: ự----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=95.69807,Y=628.3717) height=6.5831404 width=5.4307327]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=101.15785,Y=628.3717) height=6.5831404 width=5.009903]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=106.137695,Y=628.3717) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=113.63752,Y=628.3717) height=6.5831404 width=5.009903]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=118.67748,Y=628.3717) height=6.5831404 width=5.009903]
+Character: ư----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=123.65832,Y=628.3717) height=6.5831404 width=5.4307327]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: H----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=131.63808,Y=628.3717) height=6.5831404 width=7.2342987]
+Character: ì----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=138.89943,Y=628.3717) height=6.5831404 width=2.7855072]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=141.60077,Y=628.3717) height=6.5831404 width=5.009903]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=146.63773,Y=628.3717) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: 2----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=154.13454,Y=628.3717) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: v----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=161.69147,Y=628.3717) height=6.5831404 width=5.009903]
+Character: ớ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=166.73845,Y=628.3717) height=6.5831404 width=5.300476]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=171.95877,Y=628.3717) height=6.5831404 width=2.7855072]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: m----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=177.30032,Y=628.3717) height=6.5831404 width=7.79541]
+Character: ộ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=184.9785,Y=628.3717) height=6.5831404 width=5.009903]
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=190.01846,Y=628.3717) height=6.5831404 width=2.7855072]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=195.2999,Y=628.3717) height=6.5831404 width=5.009903]
+Character: ệ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=200.33885,Y=628.3717) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=207.2986,Y=628.3717) height=6.5831404 width=2.7855072]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=210.07307,Y=628.3717) height=6.5831404 width=5.009903]
+Character: ố----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=215.09901,Y=628.3717) height=6.5831404 width=5.009903]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=220.13898,Y=628.3717) height=6.5831404 width=5.009903]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=225.1138,Y=628.3717) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=232.6136,Y=628.3717) height=6.5831404 width=5.009903]
+Character: ồ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=237.6586,Y=628.3717) height=6.5831404 width=5.009903]
+Character: m----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=242.69856,Y=628.3717) height=6.5831404 width=7.79541]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: 7----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=252.90071,Y=628.3717) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: k----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=51.05786,Y=639.8917) height=6.5831404 width=5.009899]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=56.09782,Y=639.8917) height=6.5831404 width=5.009899]
+Character: ố----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=61.07766,Y=639.8917) height=6.5831404 width=5.009903]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=66.11762,Y=639.8917) height=6.5831404 width=2.7855072]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=72.36697,Y=639.8917) height=6.5831404 width=4.4487915]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=76.79973,Y=639.8917) height=6.5831404 width=5.009903]
+Character: ứ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=81.777565,Y=639.8917) height=6.5831404 width=5.4307327]
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=87.23735,Y=639.8917) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=95.09889,Y=639.8917) height=6.5831404 width=5.009903]
+Character: ă----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=100.13784,Y=639.8917) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=104.577614,Y=639.8917) height=6.5831404 width=5.009903]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=109.55746,Y=639.8917) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=118.07729,Y=639.8917) height=6.5831404 width=2.7855072]
+Character: ư----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=120.837746,Y=639.8917) height=6.5831404 width=5.4307327]
+Character: ơ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=126.29753,Y=639.8917) height=6.5831404 width=5.300476]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=131.51785,Y=639.8917) height=6.5831404 width=5.009903]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=136.55782,Y=639.8917) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: ứ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=145.01753,Y=639.8917) height=6.5831404 width=5.430725]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=150.4172,Y=639.8917) height=6.5831404 width=5.009903]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=155.45717,Y=639.8917) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: v----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=163.91689,Y=639.8917) height=6.5831404 width=5.009903]
+Character: ớ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=168.89772,Y=639.8917) height=6.5831404 width=5.300476]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=174.17816,Y=639.8917) height=6.5831404 width=2.7855072]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: 7----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=180.42351,Y=639.8917) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: p----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=188.94333,Y=639.8917) height=6.5831404 width=5.009903]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=193.9332,Y=639.8917) height=6.5831404 width=5.009903]
+Character: â----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=198.97316,Y=639.8917) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=203.40192,Y=639.8917) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=211.86163,Y=639.8917) height=6.5831404 width=5.009903]
+Character: ệ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=216.89857,Y=639.8917) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: q----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=224.7581,Y=639.8917) height=6.5831404 width=5.009903]
+Character: u----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=229.73795,Y=639.8917) height=6.5831404 width=5.009903]
+Character: ả----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=234.77892,Y=639.8917) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=239.21869,Y=639.8917) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: l----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=247.73853,Y=639.8917) height=6.5831404 width=2.7855072]
+Character: ý----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=250.43987,Y=639.8917) height=6.5831404 width=5.009903]
+Character: .----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=255.47983,Y=639.8917) height=6.5831404 width=2.5049438]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: T----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=51.05786,Y=651.35156) height=6.5831404 width=6.122097]
+Character: r----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=57.161922,Y=651.35156) height=6.5831404 width=3.3365936]
+Character: o----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=60.52156,Y=651.35156) height=6.5831404 width=5.009903]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=65.51343,Y=651.35156) height=6.5831404 width=5.009903]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=70.505295,Y=651.35156) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: đ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=79.55818,Y=651.35156) height=6.5831404 width=5.009903]
+Character: ó----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=84.538025,Y=651.35156) height=6.5831404 width=5.009903]
+Character: ,----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=89.57097,Y=651.35156) height=6.5831404 width=2.5049515]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: p----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=96.058784,Y=651.35156) height=6.5831404 width=5.009903]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=101.03862,Y=651.35156) height=6.5831404 width=5.009903]
+Character: â----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=106.078575,Y=651.35156) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=110.460236,Y=651.35156) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=119.520134,Y=651.35156) height=6.5831404 width=5.009903]
+Character: ệ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=124.558105,Y=651.35156) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=133.01782,Y=651.35156) height=6.5831404 width=2.7855072]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=135.71916,Y=651.35156) height=6.5831404 width=5.009903]
+Character: ứ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=140.75812,Y=651.35156) height=6.5831404 width=5.430725]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=150.17773,Y=651.35156) height=6.5831404 width=5.009903]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=155.2177,Y=651.35156) height=6.5831404 width=5.009903]
+Character: ấ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=160.25766,Y=651.35156) height=6.5831404 width=4.4487915]
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=164.69743,Y=651.35156) height=6.5831404 width=2.7855072]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: q----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=171.41872,Y=651.35156) height=6.5831404 width=5.009903]
+Character: u----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=176.45868,Y=651.35156) height=6.5831404 width=5.009903]
+Character: ả----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=181.49763,Y=651.35156) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=185.87729,Y=651.35156) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: l----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=194.9372,Y=651.35156) height=6.5831404 width=2.7855072]
+Character: ý----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=197.69865,Y=651.35156) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: d----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=206.69844,Y=651.35156) height=6.5831404 width=5.009903]
+Character: ữ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=211.67728,Y=651.35156) height=6.5831404 width=5.430725]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: l----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=221.15701,Y=651.35156) height=6.5831404 width=2.7855072]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=223.91847,Y=651.35156) height=6.5831404 width=2.7855072]
+Character: ệ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=226.67693,Y=651.35156) height=6.5831404 width=4.4487915]
+Character: u----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=231.1167,Y=651.35156) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=240.1766,Y=651.35156) height=6.5831404 width=2.7855072]
+Character: ổ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=242.93706,Y=651.35156) height=6.5831404 width=5.009903]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=247.9169,Y=651.35156) height=6.5831404 width=5.009903]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=252.95686,Y=651.35156) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=51.055893,Y=662.8716) height=6.5831404 width=5.009899]
+Character: ợ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=56.09585,Y=662.8716) height=6.5831404 width=5.3004723]
+Character: p----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=61.376286,Y=662.8716) height=6.5831404 width=5.009899]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=69.1767,Y=662.8716) height=6.5831404 width=5.009903]
+Character: ô----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=74.21666,Y=662.8716) height=6.5831404 width=5.009903]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=79.1965,Y=662.8716) height=6.5831404 width=5.009903]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=84.176346,Y=662.8716) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=92.03588,Y=662.8716) height=6.5831404 width=5.009903]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=97.015724,Y=662.8716) height=6.5831404 width=5.009903]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=102.05569,Y=662.8716) height=6.5831404 width=5.009903]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=107.09565,Y=662.8716) height=6.5831404 width=2.7855072]
+Character: ệ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=109.79697,Y=662.8716) height=6.5831404 width=4.4487915]
+Character: p----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=114.23674,Y=662.8716) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: v----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=122.07824,Y=662.8716) height=6.5831404 width=5.009903]
+Character: à----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=127.10017,Y=662.8716) height=6.5831404 width=4.448784]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: p----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=134.38054,Y=662.8716) height=6.5831404 width=5.009903]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=139.36038,Y=662.8716) height=6.5831404 width=5.009903]
+Character: á----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=144.40034,Y=662.8716) height=6.5831404 width=4.4487915]
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=148.86116,Y=662.8716) height=6.5831404 width=2.7855072]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=154.44218,Y=662.8716) height=6.5831404 width=2.7855072]
+Character: r----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=157.20364,Y=662.8716) height=6.5831404 width=3.3365936]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=160.56328,Y=662.8716) height=6.5831404 width=2.7855072]
+Character: ể----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=163.31673,Y=662.8716) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=167.7565,Y=662.8716) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=175.61603,Y=662.8716) height=6.5831404 width=5.009903]
+Character: ô----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=180.59587,Y=662.8716) height=6.5831404 width=5.009903]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=185.63583,Y=662.8716) height=6.5831404 width=5.009903]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=190.61568,Y=662.8716) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=198.4752,Y=662.8716) height=6.5831404 width=2.7855072]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=201.23666,Y=662.8716) height=6.5831404 width=5.009903]
+Character: ô----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=206.2165,Y=662.8716) height=6.5831404 width=5.009903]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=211.25647,Y=662.8716) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=219.116,Y=662.8716) height=6.5831404 width=4.4487915]
+Character: ủ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=223.49664,Y=662.8716) height=6.5831404 width=5.009903]
+Character: a----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=228.47649,Y=662.8716) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=235.73181,Y=662.8716) height=6.5831404 width=2.7855072]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=238.50429,Y=662.8716) height=6.5831404 width=5.009903]
+Character: à----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=243.50116,Y=662.8716) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=247.93692,Y=662.8716) height=6.5831404 width=5.009903]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=252.93379,Y=662.8716) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: p----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=51.055878,Y=674.39154) height=6.5831404 width=5.009899]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=56.095837,Y=674.39154) height=6.5831404 width=5.009899]
+Character: ố----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=61.075676,Y=674.39154) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: (----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=69.29592,Y=674.39154) height=6.5831404 width=3.3365936]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=72.64253,Y=674.39154) height=6.5831404 width=5.009903]
+Character: a----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=77.66245,Y=674.39154) height=6.5831404 width=4.4487915]
+Character: y----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=82.12126,Y=674.39154) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=90.34151,Y=674.39154) height=6.5831404 width=4.4487915]
+Character: ò----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=94.72316,Y=674.39154) height=6.5831404 width=5.009903]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=99.76312,Y=674.39154) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=107.92325,Y=674.39154) height=6.5831404 width=5.009903]
+Character: ọ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=112.97624,Y=674.39154) height=6.5831404 width=5.009903]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=118.016205,Y=674.39154) height=6.5831404 width=2.7855072]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: p----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=123.96596,Y=674.39154) height=6.5831404 width=5.009903]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=129.00592,Y=674.39154) height=6.5831404 width=5.009903]
+Character: â----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=133.98576,Y=674.39154) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=138.41852,Y=674.39154) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=146.63876,Y=674.39154) height=6.5831404 width=5.009903]
+Character: ệ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=151.67673,Y=674.39154) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=159.3569,Y=674.39154) height=6.5831404 width=4.4487915]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=163.73856,Y=674.39154) height=6.5831404 width=5.009903]
+Character: a----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=168.7184,Y=674.39154) height=6.5831404 width=4.4487915]
+Character: )----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=173.18422,Y=674.39154) height=6.5831404 width=3.3365936]
+Character: ,----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=176.53784,Y=674.39154) height=6.5831404 width=2.5049438]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=182.30023,Y=674.39154) height=6.5831404 width=4.4487915]
+Character: ò----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=186.68188,Y=674.39154) height=6.5831404 width=5.009903]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=191.70882,Y=674.39154) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: 6----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=199.91603,Y=674.39154) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: p----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=208.12325,Y=674.39154) height=6.5831404 width=5.009903]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=213.10309,Y=674.39154) height=6.5831404 width=5.009903]
+Character: â----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=218.14305,Y=674.39154) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=222.60887,Y=674.39154) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=230.82912,Y=674.39154) height=6.5831404 width=5.009903]
+Character: ệ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=235.85709,Y=674.39154) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=243.53726,Y=674.39154) height=6.5831404 width=4.4487915]
+Character: ò----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=247.93695,Y=674.39154) height=6.5831404 width=5.009903]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=252.97691,Y=674.39154) height=6.5831404 width=5.009903]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: l----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=280.67667,Y=573.35187) height=6.5831404 width=2.785492]
+Character: ạ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=283.43713,Y=573.35187) height=6.5831404 width=4.4487915]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=287.8769,Y=573.35187) height=6.5831404 width=2.785492]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=293.87875,Y=573.35187) height=6.5831404 width=2.785492]
+Character: ư----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=296.6372,Y=573.35187) height=6.5831404 width=5.430725]
+Character: ơ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=302.097,Y=573.35187) height=6.5831404 width=5.300476]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=307.37744,Y=573.35187) height=6.5831404 width=5.0098877]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=312.4174,Y=573.35187) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: ứ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=320.5775,Y=573.35187) height=6.5831404 width=5.430725]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=326.0373,Y=573.35187) height=6.5831404 width=5.0098877]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=331.01712,Y=573.35187) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: v----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=339.23737,Y=573.35187) height=6.5831404 width=5.0098877]
+Character: ớ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=344.27734,Y=573.35187) height=6.5831404 width=5.300476]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=349.55777,Y=573.35187) height=6.5831404 width=2.785492]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: 6----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=355.55865,Y=573.35187) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: C----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=363.78394,Y=573.35187) height=6.5831404 width=6.683197]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=370.44208,Y=573.35187) height=6.5831404 width=5.0098877]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=375.48206,Y=573.35187) height=6.5831404 width=2.785492]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=381.48294,Y=573.35187) height=6.5831404 width=4.4487915]
+Character: ụ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=385.8575,Y=573.35187) height=6.5831404 width=5.0098877]
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=390.89746,Y=573.35187) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: q----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=398.4594,Y=573.35187) height=6.5831404 width=5.0098877]
+Character: u----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=403.4994,Y=573.35187) height=6.5831404 width=5.0098877]
+Character: ả----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=408.54,Y=573.3521) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=412.91968,Y=573.3521) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: l----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=421.20004,Y=573.3521) height=6.5831404 width=2.785492]
+Character: ý----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=423.90137,Y=573.3521) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=432.18173,Y=573.3521) height=6.5831404 width=2.785492]
+Character: r----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=434.94318,Y=573.3521) height=6.5831404 width=3.3365784]
+Character: ự----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=438.23972,Y=573.3521) height=6.5831404 width=5.430725]
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=443.6995,Y=573.3521) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=451.3416,Y=573.3521) height=6.5831404 width=2.785492]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=454.08002,Y=573.3521) height=6.5831404 width=5.0098877]
+Character: u----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=459.04282,Y=573.3521) height=6.5831404 width=5.0098877]
+Character: ộ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=464.0998,Y=573.3521) height=6.5831404 width=5.0098877]
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=469.13974,Y=573.3521) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: S----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=476.7618,Y=573.3521) height=6.5831404 width=5.5710144]
+Character: ở----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=482.3398,Y=573.3521) height=6.5831404 width=5.300476]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: (----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=280.67932,Y=584.8721) height=6.5831404 width=3.3365784]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=284.02594,Y=584.8721) height=6.5831404 width=5.0098877]
+Character: a----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=289.04587,Y=584.8721) height=6.5831404 width=4.4487915]
+Character: y----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=293.50467,Y=584.8721) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=302.20486,Y=584.8721) height=6.5831404 width=5.0098877]
+Character: ọ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=307.19974,Y=584.8721) height=6.5831404 width=5.0098877]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=312.2397,Y=584.8721) height=6.5831404 width=2.785492]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: p----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=318.70544,Y=584.8721) height=6.5831404 width=5.0098877]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=323.67526,Y=584.8721) height=6.5831404 width=5.0098877]
+Character: â----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=328.7152,Y=584.8721) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=333.12393,Y=584.8721) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=341.8241,Y=584.8721) height=6.5831404 width=5.0098877]
+Character: ệ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=346.8601,Y=584.8721) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=355.0202,Y=584.8721) height=6.5831404 width=4.4487915]
+Character: o----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=359.468,Y=584.8721) height=6.5831404 width=5.0098877]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=364.4769,Y=584.8721) height=6.5831404 width=5.0098877]
+Character: )----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=369.4858,Y=584.8721) height=6.5831404 width=3.3365784]
+Character: ,----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=372.8214,Y=584.8721) height=6.5831404 width=2.5049438]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=379.0457,Y=584.8721) height=6.5831404 width=4.4487915]
+Character: á----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=383.49347,Y=584.8721) height=6.5831404 width=4.4487915]
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=387.94125,Y=584.8721) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: p----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=396.10938,Y=584.8721) height=6.5831404 width=5.0098877]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=401.1183,Y=584.8721) height=6.5831404 width=5.0098877]
+Character: â----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=406.1272,Y=584.8721) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=410.57498,Y=584.8721) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=419.2441,Y=584.8721) height=6.5831404 width=5.0098877]
+Character: ệ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=424.26004,Y=584.8721) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=432.36005,Y=584.8721) height=6.5831404 width=5.0098877]
+Character: à----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=437.4,Y=584.8721) height=6.5831404 width=4.4487915]
+Character: y----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=441.84177,Y=584.8721) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=450.54395,Y=584.8721) height=6.5831404 width=2.785492]
+Character: r----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=453.3014,Y=584.8721) height=6.5831404 width=3.3365784]
+Character: u----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=456.661,Y=584.8721) height=6.5831404 width=5.0098877]
+Character: y----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=461.64285,Y=584.8721) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: x----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=470.34503,Y=584.8721) height=6.5831404 width=5.0098877]
+Character: u----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=475.38498,Y=584.8721) height=6.5831404 width=5.0098877]
+Character: ấ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=480.42004,Y=584.8721) height=6.5831404 width=4.4487915]
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=484.8598,Y=584.8721) height=6.5831404 width=2.785492]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: đ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=280.67932,Y=596.3921) height=6.5831404 width=5.0098877]
+Character: ế----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=285.71927,Y=596.3921) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=290.15906,Y=596.3921) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: C----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=299.2901,Y=596.3921) height=6.5831404 width=6.683197]
+Character: S----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=305.95425,Y=596.3921) height=6.5831404 width=5.5710144]
+Character: D----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=311.50623,Y=596.3921) height=6.5831404 width=7.2342834]
+Character: L----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=318.7215,Y=596.3921) height=6.5831404 width=6.122101]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=328.96472,Y=596.3921) height=6.5831404 width=5.0098877]
+Character: ề----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=334.01874,Y=596.3921) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=338.3984,Y=596.3921) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: d----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=347.51843,Y=596.3921) height=6.5831404 width=5.0098877]
+Character: ù----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=352.5584,Y=596.3921) height=6.5831404 width=5.0098877]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=357.53625,Y=596.3921) height=6.5831404 width=5.0098877]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=362.5141,Y=596.3921) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=371.69424,Y=596.3921) height=6.5831404 width=4.4487915]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=376.11096,Y=596.3921) height=6.5831404 width=5.0098877]
+Character: u----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=381.0888,Y=596.3921) height=6.5831404 width=5.0098877]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=386.06665,Y=596.3921) height=6.5831404 width=5.0098877]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=391.10663,Y=596.3921) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: v----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=400.22464,Y=596.3921) height=6.5831404 width=5.0098877]
+Character: à----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=405.26462,Y=596.3921) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: C----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=413.84656,Y=596.3921) height=6.5831404 width=6.683197]
+Character: S----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=420.4977,Y=596.3921) height=6.5831404 width=5.5710144]
+Character: D----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=426.03665,Y=596.3921) height=6.5831404 width=7.2342834]
+Character: L----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=433.295,Y=596.3921) height=6.5831404 width=6.122101]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: d----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=443.49716,Y=596.3921) height=6.5831404 width=5.0098877]
+Character: à----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=448.53714,Y=596.3921) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=452.9188,Y=596.3921) height=6.5831404 width=5.0098877]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=457.95877,Y=596.3921) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: r----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=467.0788,Y=596.3921) height=6.5831404 width=3.3365784]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=470.43845,Y=596.3921) height=6.5831404 width=2.785492]
+Character: ê----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=473.19992,Y=596.3921) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=477.61664,Y=596.3921) height=6.5831404 width=5.0098877]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=482.59448,Y=596.3921) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=280.67834,Y=607.8519) height=6.5831404 width=4.4487915]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=285.1532,Y=607.8519) height=6.5831404 width=5.0098877]
+Character: o----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=290.18915,Y=607.8519) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: p----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=299.42538,Y=607.8519) height=6.5831404 width=5.0098877]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=304.46133,Y=607.8519) height=6.5831404 width=5.0098877]
+Character: â----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=309.49728,Y=607.8519) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=313.87897,Y=607.8519) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=323.17532,Y=607.8519) height=6.5831404 width=5.0098877]
+Character: ệ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=328.19824,Y=607.8519) height=6.5831404 width=4.4487915]
+Character: .----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=332.5779,Y=607.8519) height=6.5831404 width=2.5049438]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: C----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=339.3583,Y=607.8519) height=6.5831404 width=6.683197]
+Character: ơ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=346.01846,Y=607.8519) height=6.5831404 width=5.300476]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: s----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=355.5593,Y=607.8519) height=6.5831404 width=3.897705]
+Character: ở----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=359.459,Y=607.8519) height=6.5831404 width=5.300476]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: d----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=368.99985,Y=607.8519) height=6.5831404 width=5.0098877]
+Character: ữ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=374.03983,Y=607.8519) height=6.5831404 width=5.430725]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: l----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=383.76,Y=607.8519) height=6.5831404 width=2.785492]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=386.52145,Y=607.8519) height=6.5831404 width=2.785492]
+Character: ệ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=389.27994,Y=607.8519) height=6.5831404 width=4.4487915]
+Character: u----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=393.71973,Y=607.8519) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: r----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=403.0171,Y=607.8519) height=6.5831404 width=3.3365784]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=406.38074,Y=607.8519) height=6.5831404 width=2.785492]
+Character: ê----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=409.1422,Y=607.8519) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=413.61804,Y=607.8519) height=6.5831404 width=5.0098877]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=418.655,Y=607.8519) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: b----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=427.95236,Y=607.8519) height=6.5831404 width=5.0098877]
+Character: ê----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=432.98932,Y=607.8519) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=437.37097,Y=607.8519) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=446.66833,Y=607.8519) height=6.5831404 width=2.785492]
+Character: r----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=449.4298,Y=607.8519) height=6.5831404 width=3.3365784]
+Character: o----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=452.78946,Y=607.8519) height=6.5831404 width=5.0098877]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=457.76932,Y=607.8519) height=6.5831404 width=5.0098877]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=462.80627,Y=607.8519) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: m----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=472.10364,Y=607.8519) height=6.5831404 width=7.79541]
+Character: ỗ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=479.75977,Y=607.8519) height=6.5831404 width=5.0098877]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=484.7997,Y=607.8519) height=6.5831404 width=2.785492]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: p----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=280.67935,Y=619.37195) height=6.5831404 width=5.0098877]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=285.7193,Y=619.37195) height=6.5831404 width=5.0098877]
+Character: â----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=290.75925,Y=619.37195) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=295.1409,Y=619.37195) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=304.38113,Y=619.37195) height=6.5831404 width=5.0098877]
+Character: ệ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=309.41913,Y=619.37195) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=318.05917,Y=619.37195) height=6.5831404 width=4.4487915]
+Character: o----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=322.45886,Y=619.37195) height=6.5831404 width=5.0098877]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=327.41968,Y=619.37195) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=336.65994,Y=619.37195) height=6.5831404 width=4.4487915]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=341.1017,Y=619.37195) height=6.5831404 width=5.0098877]
+Character: ứ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=346.13867,Y=619.37195) height=6.5831404 width=5.430725]
+Character: a----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=351.59845,Y=619.37195) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=360.2405,Y=619.37195) height=6.5831404 width=4.4487915]
+Character: á----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=364.68228,Y=619.37195) height=6.5831404 width=4.4487915]
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=369.12405,Y=619.37195) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: s----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=377.7661,Y=619.37195) height=6.5831404 width=3.897705]
+Character: ố----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=381.59872,Y=619.37195) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: l----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=390.83896,Y=619.37195) height=6.5831404 width=2.785492]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=393.6004,Y=619.37195) height=6.5831404 width=2.785492]
+Character: ệ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=396.3589,Y=619.37195) height=6.5831404 width=4.4487915]
+Character: u----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=400.79865,Y=619.37195) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=410.02487,Y=619.37195) height=6.5831404 width=4.4487915]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=414.4897,Y=619.37195) height=6.5831404 width=5.0098877]
+Character: u----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=419.46954,Y=619.37195) height=6.5831404 width=5.0098877]
+Character: y----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=424.49548,Y=619.37195) height=6.5831404 width=5.0098877]
+Character: ê----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=429.47534,Y=619.37195) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=433.94016,Y=619.37195) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=443.10626,Y=619.37195) height=6.5831404 width=5.0098877]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=448.1322,Y=619.37195) height=6.5831404 width=5.0098877]
+Character: à----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=453.15814,Y=619.37195) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=457.5398,Y=619.37195) height=6.5831404 width=5.0098877]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=462.56573,Y=619.37195) height=6.5831404 width=5.0098877]
+Character: ,----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=467.5456,Y=619.37195) height=6.5831404 width=2.5049438]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=474.26688,Y=619.37195) height=6.5831404 width=4.4487915]
+Character: á----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=478.7317,Y=619.37195) height=6.5831404 width=4.4487915]
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=483.1965,Y=619.37195) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: b----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=280.67828,Y=630.89197) height=6.5831404 width=5.0098877]
+Character: ả----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=285.71823,Y=630.89197) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=290.15802,Y=630.89197) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: đ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=298.61774,Y=630.89197) height=6.5831404 width=5.0098877]
+Character: ồ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=303.59756,Y=630.89197) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=312.11743,Y=630.89197) height=6.5831404 width=4.4487915]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=316.54016,Y=630.89197) height=6.5831404 width=5.0098877]
+Character: u----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=321.52402,Y=630.89197) height=6.5831404 width=5.0098877]
+Character: y----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=326.564,Y=630.89197) height=6.5831404 width=5.0098877]
+Character: ê----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=331.54385,Y=630.89197) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=335.96658,Y=630.89197) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=344.43033,Y=630.89197) height=6.5831404 width=5.0098877]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=349.41418,Y=630.89197) height=6.5831404 width=5.0098877]
+Character: à----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=354.45416,Y=630.89197) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=358.8769,Y=630.89197) height=6.5831404 width=5.0098877]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=363.86075,Y=630.89197) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: v----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=372.3205,Y=630.89197) height=6.5831404 width=5.0098877]
+Character: à----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=377.36047,Y=630.89197) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=385.22202,Y=630.89197) height=6.5831404 width=4.4487915]
+Character: ù----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=389.64474,Y=630.89197) height=6.5831404 width=5.0098877]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=394.6286,Y=630.89197) height=6.5831404 width=5.0098877]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=399.61246,Y=630.89197) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: l----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=408.13232,Y=630.89197) height=6.5831404 width=2.785492]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=410.89178,Y=630.89197) height=6.5831404 width=2.785492]
+Character: ê----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=413.65125,Y=630.89197) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=418.07397,Y=630.89197) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: k----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=426.53772,Y=630.89197) height=6.5831404 width=5.0098877]
+Character: ế----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=431.5785,Y=630.89197) height=6.5831404 width=4.4487915]
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=436.01825,Y=630.89197) height=6.5831404 width=2.785492]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: v----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=442.19946,Y=630.89197) height=6.5831404 width=5.0098877]
+Character: ớ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=447.23843,Y=630.89197) height=6.5831404 width=5.300476]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=452.51886,Y=630.89197) height=6.5831404 width=2.785492]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: d----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=458.70007,Y=630.89197) height=6.5831404 width=5.0098877]
+Character: ữ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=463.73904,Y=630.89197) height=6.5831404 width=5.430725]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: l----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=472.6186,Y=630.89197) height=6.5831404 width=2.785492]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=475.38004,Y=630.89197) height=6.5831404 width=2.785492]
+Character: ệ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=478.1385,Y=630.89197) height=6.5831404 width=4.4487915]
+Character: u----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=482.57825,Y=630.89197) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=280.67728,Y=642.3518) height=6.5831404 width=5.0098877]
+Character: ề----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=285.71722,Y=642.3518) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=290.15698,Y=642.3518) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=303.06348,Y=642.3518) height=6.5831404 width=4.4487915]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=307.48923,Y=642.3518) height=6.5831404 width=5.0098877]
+Character: u----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=312.47607,Y=642.3518) height=6.5831404 width=5.0098877]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=317.46292,Y=642.3518) height=6.5831404 width=5.0098877]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=322.50287,Y=642.3518) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=335.40936,Y=642.3518) height=6.5831404 width=5.0098877]
+Character: à----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=340.3962,Y=642.3518) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=344.82196,Y=642.3518) height=6.5831404 width=5.0098877]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=349.8619,Y=642.3518) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=362.76138,Y=642.3518) height=6.5831404 width=4.4487915]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=367.18713,Y=642.3518) height=6.5831404 width=5.0098877]
+Character: í----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=372.22708,Y=642.3518) height=6.5831404 width=2.785492]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=374.9284,Y=642.3518) height=6.5831404 width=5.0098877]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=379.96835,Y=642.3518) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=392.87485,Y=642.3518) height=6.5831404 width=4.4487915]
+Character: ủ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=397.25763,Y=642.3518) height=6.5831404 width=5.0098877]
+Character: a----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=402.29758,Y=642.3518) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=414.665,Y=642.3518) height=6.5831404 width=2.785492]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=417.44952,Y=642.3518) height=6.5831404 width=5.0098877]
+Character: à----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=422.45844,Y=642.3518) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=426.8401,Y=642.3518) height=6.5831404 width=5.0098877]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=431.81995,Y=642.3518) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: p----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=444.6894,Y=642.3518) height=6.5831404 width=5.0098877]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=449.6983,Y=642.3518) height=6.5831404 width=5.0098877]
+Character: ố----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=454.6781,Y=642.3518) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: (----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=467.57858,Y=642.3518) height=6.5831404 width=3.3365784]
+Character: d----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=470.9212,Y=642.3518) height=6.5831404 width=5.0098877]
+Character: a----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=475.9371,Y=642.3518) height=6.5831404 width=4.4487915]
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=480.3919,Y=642.3518) height=6.5831404 width=2.785492]
+Character: a----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=483.1834,Y=642.3518) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=280.67725,Y=653.8718) height=6.5831404 width=5.0098877]
+Character: e----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=285.7172,Y=653.8718) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=290.15897,Y=653.8718) height=6.5831404 width=5.0098877]
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=295.1989,Y=653.8718) height=6.5831404 width=4.4487915]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=299.58057,Y=653.8718) height=6.5831404 width=5.0098877]
+Character: u----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=304.57343,Y=653.8718) height=6.5831404 width=5.0098877]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=309.61337,Y=653.8718) height=6.5831404 width=5.0098877]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=314.60623,Y=653.8718) height=6.5831404 width=5.0098877]
+Character: )----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=319.5991,Y=653.8718) height=6.5831404 width=3.3365784]
+Character: .----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=322.9587,Y=653.8718) height=6.5831404 width=2.5049438]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: M----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=330.00662,Y=653.8718) height=6.5831404 width=8.907593]
+Character: ỗ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=338.81714,Y=653.8718) height=6.5831404 width=5.0098877]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=343.8571,Y=653.8718) height=6.5831404 width=2.785492]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: p----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=351.18256,Y=653.8718) height=6.5831404 width=5.0098877]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=356.17242,Y=653.8718) height=6.5831404 width=5.0098877]
+Character: â----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=361.2124,Y=653.8718) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=365.64114,Y=653.8718) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=375.181,Y=653.8718) height=6.5831404 width=5.0098877]
+Character: ệ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=380.21695,Y=653.8718) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=389.21674,Y=653.8718) height=6.5831404 width=4.4487915]
+Character: o----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=393.5984,Y=653.8718) height=6.5831404 width=5.0098877]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=398.57825,Y=653.8718) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=408.1692,Y=653.8718) height=6.5831404 width=5.0098877]
+Character: à----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=413.20013,Y=653.8718) height=6.5831404 width=4.4487915]
+Character: y----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=417.66995,Y=653.8718) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: đ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=427.1367,Y=653.8718) height=6.5831404 width=5.0098877]
+Character: ư----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=432.17664,Y=653.8718) height=6.5831404 width=5.430725]
+Character: ợ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=437.63742,Y=653.8718) height=6.5831404 width=5.300476]
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=442.91687,Y=653.8718) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: l----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=451.91864,Y=653.8718) height=6.5831404 width=2.785492]
+Character: ậ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=454.67712,Y=653.8718) height=6.5831404 width=4.4487915]
+Character: p----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=459.0568,Y=653.8718) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=468.65677,Y=653.8718) height=6.5831404 width=2.785492]
+Character: r----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=471.42825,Y=653.8718) height=6.5831404 width=3.3365784]
+Character: ì----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=474.75082,Y=653.8718) height=6.5831404 width=2.785492]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=477.5223,Y=653.8718) height=6.5831404 width=5.0098877]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=482.5182,Y=653.8718) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: p----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=280.6763,Y=665.3918) height=6.5831404 width=5.0098877]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=285.70422,Y=665.3918) height=6.5831404 width=5.0098877]
+Character: á----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=290.73215,Y=665.3918) height=6.5831404 width=4.4487915]
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=295.19897,Y=665.3918) height=6.5831404 width=2.785492]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=302.27997,Y=665.3918) height=6.5831404 width=2.785492]
+Character: r----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=305.0414,Y=665.3918) height=6.5831404 width=3.3365784]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=308.40103,Y=665.3918) height=6.5831404 width=2.785492]
+Character: ể----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=311.15652,Y=665.3918) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=315.5963,Y=665.3918) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=324.9558,Y=665.3918) height=6.5831404 width=2.785492]
+Character: ạ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=327.71628,Y=665.3918) height=6.5831404 width=4.4487915]
+Character: o----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=332.15607,Y=665.3918) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=341.50354,Y=665.3918) height=6.5831404 width=2.785492]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=344.26498,Y=665.3918) height=6.5831404 width=5.0098877]
+Character: à----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=349.30493,Y=665.3918) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=353.77176,Y=665.3918) height=6.5831404 width=5.0098877]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=358.7516,Y=665.3918) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: m----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=368.15918,Y=665.3918) height=6.5831404 width=7.79541]
+Character: ộ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=375.83636,Y=665.3918) height=6.5831404 width=5.0098877]
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=380.8763,Y=665.3918) height=6.5831404 width=2.785492]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=388.01743,Y=665.3918) height=6.5831404 width=5.0098877]
+Character: ệ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=393.0564,Y=665.3918) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=401.7556,Y=665.3918) height=6.5831404 width=2.785492]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=404.51706,Y=665.3918) height=6.5831404 width=5.0098877]
+Character: ố----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=409.55603,Y=665.3918) height=6.5831404 width=5.0098877]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=414.53586,Y=665.3918) height=6.5831404 width=5.0098877]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=419.5658,Y=665.3918) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: W----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=428.86517,Y=665.3918) height=6.5831404 width=9.458679]
+Character: e----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=438.3439,Y=665.3918) height=6.5831404 width=4.4487915]
+Character: b----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=442.81274,Y=665.3918) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: F----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=452.17224,Y=665.3918) height=6.5831404 width=5.5710144]
+Character: o----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=457.69113,Y=665.3918) height=6.5831404 width=5.0098877]
+Character: r----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=462.67096,Y=665.3918) height=6.5831404 width=3.3365784]
+Character: m----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=466.0276,Y=665.3918) height=6.5831404 width=7.79541]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: đ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=478.07642,Y=665.3918) height=6.5831404 width=5.0098877]
+Character: ể----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=483.11636,Y=665.3918) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=280.67535,Y=676.8517) height=6.5831404 width=5.0098877]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=285.7153,Y=676.8517) height=6.5831404 width=2.785492]
+Character: ể----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=288.47577,Y=676.8517) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=292.91553,Y=676.8517) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=300.65582,Y=676.8517) height=6.5831404 width=2.785492]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=303.41727,Y=676.8517) height=6.5831404 width=5.0098877]
+Character: ị----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=308.45523,Y=676.8517) height=6.5831404 width=2.785492]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=313.91605,Y=676.8517) height=6.5831404 width=2.785492]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=316.6775,Y=676.8517) height=6.5831404 width=5.0098877]
+Character: ô----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=321.65732,Y=676.8517) height=6.5831404 width=5.0098877]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=326.63715,Y=676.8517) height=6.5831404 width=5.0098877]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=331.6721,Y=676.8517) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=339.34726,Y=676.8517) height=6.5831404 width=2.785492]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=342.1087,Y=676.8517) height=6.5831404 width=2.785492]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=344.87015,Y=676.8517) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: v----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=352.61044,Y=676.8517) height=6.5831404 width=5.0098877]
+Character: à----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=357.6454,Y=676.8517) height=6.5831404 width=4.4487915]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: t----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=364.81958,Y=676.8517) height=6.5831404 width=2.785492]
+Character: r----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=367.58102,Y=676.8517) height=6.5831404 width=3.3365784]
+Character: u----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=370.94064,Y=676.8517) height=6.5831404 width=5.0098877]
+Character: y----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=375.9756,Y=676.8517) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: v----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=383.59564,Y=676.8517) height=6.5831404 width=5.0098877]
+Character: ấ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=388.61566,Y=676.8517) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=393.05542,Y=676.8517) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: d----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=400.7356,Y=676.8517) height=6.5831404 width=5.0098877]
+Character: ữ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=405.77554,Y=676.8517) height=6.5831404 width=5.430725]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: l----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=413.93567,Y=676.8517) height=6.5831404 width=2.785492]
+Character: i----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=416.6971,Y=676.8517) height=6.5831404 width=2.785492]
+Character: ệ----font: FMGGAG+TimesNewRomanPSMT Positions of character:  [(X=419.45557,Y=676.8517) height=6.5831404 width=4.4487915]
+Character: u----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=423.89532,Y=676.8517) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: c----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=431.62762,Y=676.8517) height=6.5831404 width=4.4487915]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=436.00928,Y=676.8517) height=6.5831404 width=5.0098877]
+Character: u----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=440.98914,Y=676.8517) height=6.5831404 width=5.0098877]
+Character: y----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=446.0211,Y=676.8517) height=6.5831404 width=5.0098877]
+Character: ê----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=451.00095,Y=676.8517) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=455.47177,Y=676.8517) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=463.15198,Y=676.8517) height=6.5831404 width=5.0098877]
+Character: g----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=468.18393,Y=676.8517) height=6.5831404 width=5.0098877]
+Character: à----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=473.21588,Y=676.8517) height=6.5831404 width=4.4487915]
+Character: n----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=477.59753,Y=676.8517) height=6.5831404 width=5.0098877]
+Character: h----font: FMGGBH+TimesNewRomanPSMT Positions of character:  [(X=482.5774,Y=676.8517) height=6.5831404 width=5.0098877]
+Space character: ----font: FMGGBH+TimesNewRomanPSMT
