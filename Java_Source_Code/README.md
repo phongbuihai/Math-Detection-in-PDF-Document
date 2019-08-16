@@ -1,4 +1,4 @@
-Step to use the Java source codes for mathematical variable detection in PDF files:
+Steps to use the Java source codes for mathematical variable detection in PDF files:
 
 Input files: PDF documents
 
@@ -10,4 +10,4 @@ Variables are detected based on some rules:
   Length of word
   Check specific cases (abbreviation; language)
   
- Please, use libraby PDFBox Java (https://pdfbox.apache.org/) for analyse PDF files
+ Please, use libraby PDFBox Java (https://pdfbox.apache.org/) for analysing PDF files
